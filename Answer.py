@@ -1,5 +1,4 @@
 import base64
-import numpy as np
 
 import base64
 data = open("Mysterious.txt").read()
